@@ -45,4 +45,4 @@ python run.py --input_file ./data/fetus_mouse_data.txt --input_shape 202 107 123
 
 # Contact
 
-Please contact me if you have any help: gankLei@stu.xmu.edu.cn
+Please contact me if you have any help: gl5121405@gmail.com
